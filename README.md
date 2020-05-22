@@ -10,7 +10,7 @@ this is very simple Flutter app&amp; Python3 script to control led strip using R
 ###### Leds to Raspberry pi connection tutorial:
 https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/
 
-
+###### Set up 
 1)  the application has to be built and installed on the device using for example e.g. Android studio with Flutter installed.
 - Flutter installation tutorial: https://flutter.dev/docs/get-started/install
 - Flutter application release: https://flutter.dev/docs/deployment/android 
